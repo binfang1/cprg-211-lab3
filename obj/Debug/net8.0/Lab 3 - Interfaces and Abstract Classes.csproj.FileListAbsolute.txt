@@ -1,0 +1,14 @@
+C:\Users\Ben\Desktop\CPRG 211\Lab 3 - Interfaces and Abstract Classes\bin\Debug\net8.0\Lab 3 - Interfaces and Abstract Classes.exe
+C:\Users\Ben\Desktop\CPRG 211\Lab 3 - Interfaces and Abstract Classes\bin\Debug\net8.0\Lab 3 - Interfaces and Abstract Classes.deps.json
+C:\Users\Ben\Desktop\CPRG 211\Lab 3 - Interfaces and Abstract Classes\bin\Debug\net8.0\Lab 3 - Interfaces and Abstract Classes.runtimeconfig.json
+C:\Users\Ben\Desktop\CPRG 211\Lab 3 - Interfaces and Abstract Classes\bin\Debug\net8.0\Lab 3 - Interfaces and Abstract Classes.dll
+C:\Users\Ben\Desktop\CPRG 211\Lab 3 - Interfaces and Abstract Classes\bin\Debug\net8.0\Lab 3 - Interfaces and Abstract Classes.pdb
+C:\Users\Ben\Desktop\CPRG 211\Lab 3 - Interfaces and Abstract Classes\obj\Debug\net8.0\Lab 3 - Interfaces and Abstract Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben\Desktop\CPRG 211\Lab 3 - Interfaces and Abstract Classes\obj\Debug\net8.0\Lab 3 - Interfaces and Abstract Classes.AssemblyInfoInputs.cache
+C:\Users\Ben\Desktop\CPRG 211\Lab 3 - Interfaces and Abstract Classes\obj\Debug\net8.0\Lab 3 - Interfaces and Abstract Classes.AssemblyInfo.cs
+C:\Users\Ben\Desktop\CPRG 211\Lab 3 - Interfaces and Abstract Classes\obj\Debug\net8.0\Lab 3 - Interfaces and Abstract Classes.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\CPRG 211\Lab 3 - Interfaces and Abstract Classes\obj\Debug\net8.0\Lab 3 - Interfaces and Abstract Classes.dll
+C:\Users\Ben\Desktop\CPRG 211\Lab 3 - Interfaces and Abstract Classes\obj\Debug\net8.0\refint\Lab 3 - Interfaces and Abstract Classes.dll
+C:\Users\Ben\Desktop\CPRG 211\Lab 3 - Interfaces and Abstract Classes\obj\Debug\net8.0\Lab 3 - Interfaces and Abstract Classes.pdb
+C:\Users\Ben\Desktop\CPRG 211\Lab 3 - Interfaces and Abstract Classes\obj\Debug\net8.0\Lab 3 - Interfaces and Abstract Classes.genruntimeconfig.cache
+C:\Users\Ben\Desktop\CPRG 211\Lab 3 - Interfaces and Abstract Classes\obj\Debug\net8.0\ref\Lab 3 - Interfaces and Abstract Classes.dll
